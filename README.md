@@ -1,4 +1,10 @@
-## Hi there 👋
+# Jatin Agrawal 👋
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/jatinagrawal0917?theme=dark&font=Karma)
+
+## 💻 Skills & Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java)](https://skillicons.dev) ![DSA](https://img.shields.io/badge/DSA-Algorithms-blue)
 
 <!--
 **Jatin6396/Jatin6396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
