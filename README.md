@@ -1,11 +1,12 @@
 <!-- Header & Animated Intro -->
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jatin-agrawal-engg/" target="_blank">Jatin Agrawal</a></h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A2&width=435&lines=An+Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A2&width=435&lines=An+Aspiring+Software+Engineer;Building+Web+Apps+%26+Learning+DSA" />
 </h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/7uQKf4f89QwAAAAC/coding.gif" />
 
 - 🌱 Learning Never Stops 🚀
+- 💻 Currently focusing on **Web Development, React, Node.js, and DSA**  
 
 ---
 
@@ -29,15 +30,15 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
 ---
 
-## 🖥️ Languages
+## 🖥️ Languages & DSA
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="DSA" src="https://img.shields.io/badge/DSA-Algorithms-blue"/>
 </div>
 
 ---
@@ -51,28 +52,13 @@
 ---
 
 ## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/jatinagrawal0917?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jatinagrawal0917?theme=dark&font=Karma&ext=all)
 
 ---
 
-## ⚡ Skills & DSA
-<div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java)](https://skillicons.dev)
-  <img alt="DSA" src="https://img.shields.io/badge/DSA-Algorithms-blue"/>
+## 📊 GitHub Stats
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jatin6396&show_icons=true&theme=dark"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin6396&theme=dark"/>
+  <img alt="Github Language" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jatin6396&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </div>
-
-
-<!--
-**Jatin6396/Jatin6396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
