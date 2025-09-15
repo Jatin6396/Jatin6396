@@ -55,6 +55,30 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jatinagrawal0917?theme=dark&font=Karma&ext=all)
 
 ---
+## 🌐 Other Coding Profiles
+<div align="left">
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/jatinagraij2p/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/jatinagrawal1704" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/jatin_1704" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <!-- AtCoder -->
+  <a href="https://atcoder.jp/users/Jatin_Agrawal" target="_blank">
+    <img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-1A1A1A?style=for-the-badge&logo=atcoder&logoColor=white"/>
+  </a>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
