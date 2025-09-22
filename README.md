@@ -51,8 +51,20 @@
 
 ---
 
+
 ## 🏆 LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jatinagrawal0917?theme=dark&font=Karma&ext=all)
+
+<p align="center">
+  <a href="https://leetcode.com/jatinagrawal0917/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Animation 1" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/jatinagrawal0917/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Animation 2" height="200" width="200" />
+  </a>
+</p>
+
 
 ---
 ## 🌐 Other Coding Profiles
